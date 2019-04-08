@@ -1,0 +1,26 @@
+{
+  "name": "find-map",
+  "version": "1.0.0",
+  "description": "Combination of Array.find and Array.map.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Kory Nunn <knunn187@gmail.com> (https://korynunn.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.10.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/find-map.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/find-map/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/find-map#readme"
+}
